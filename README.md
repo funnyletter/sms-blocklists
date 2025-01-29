@@ -1,2 +1,2 @@
 # sms-blocklists
-Social media site blocklists for leechblock
+Social media site blocklists for leechblock.
